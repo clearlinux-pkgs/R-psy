@@ -4,7 +4,7 @@
 #
 Name     : R-psy
 Version  : 1.2
-Release  : 33
+Release  : 34
 URL      : https://cran.r-project.org/src/contrib/psy_1.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/psy_1.2.tar.gz
 Summary  : Various Procedures Used in Psychometrics
